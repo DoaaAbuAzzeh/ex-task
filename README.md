@@ -34,7 +34,5 @@ Honestly, I heared about github website, But there was no chance to deal with th
 Push my projects using (cmd), and more things.
 
 Problems I have encountered:
-I encountered many problems with heroku website, So Im so sorry for not creating host on this website, But I Push the code, so you can execute this by copying it in one 
-of text editors.
-I hope you do not take that problem seriously, And I will try to find a solution to the problem I have encountered.
+I encountered many problems with heroku website, Because I didn't know this website before, But with research and learning about this I've solved the problem.
 Thanks Expedia team, and thanks for giving me this opportunity. I Hope to be good as you expect me to be.
